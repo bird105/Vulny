@@ -8,7 +8,7 @@
 # TODO afficher toutes les modifications de la variable
 
 import argparse
-from detection import *
+from detect import *
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
